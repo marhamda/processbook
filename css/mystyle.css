@@ -1,0 +1,107 @@
+            body {
+                padding-top: 10px;
+                padding-bottom: 20px;
+				
+            }
+			.jumbotron {
+			padding-top: 20px;
+			margin-bottom: 20px;
+			font-size: 21px;
+			font-weight: 200;
+			line-height: 3;
+			color: #595452;
+			background-color: #B18FBF;
+		}
+		.nav-bar{
+			padding-bottom: 25px;
+			border-radius:110px;
+			}
+		.navbar-brand{	
+		font-weight:900;		
+		font-variant:small-caps;
+		}
+		html,body {
+			background-image:url("brick2.jpg");
+			font-family:Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;		
+		}
+		
+		.box {
+			position:relative;
+			top:80px;
+			left:200px;
+			width:950px;
+			float:left;
+			background: #222222;
+			color: 		#CCCCCC;
+			border-radius: 20px;
+			font-size:115%;
+			padding: 0 2%
+			
+		}
+		.b {
+		   position: relative;
+            top: 100px;
+            left: 475px;
+			border-radius: 20px;
+            width: 450px;
+            float:left;
+			background: #222222;
+			color: #CCCCCC;
+			font-size:115%;
+			text-align:center;
+			padding:0 2%;
+		 }
+		
+		table {
+			background:#33ff99;
+			color:black;
+			}
+	
+	
+	
+	
+	
+	
+		.right{
+		float:right;
+		display:block;
+		margin-top: 10px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+		border-radius: 10px;
+		}
+		
+		img{
+		padding:2%;
+		border-radius: 10px;
+		}
+		
+		.sketch {
+		padding:0;
+		}
+	
+	.pager li>a{
+			background:#CCCCCC;
+			color:#222222;
+			border:#CCCCCC;
+			}
+	panel{
+	 border:red;
+	 }
+			
+	.panel-default>.panel-heading{
+	background:#222222;
+	color:#CCCCCC;
+	}
+	
+	
+	.panel-body{ 
+	background:#222222;
+	}
+	
+
+	#spec {
+		paddint:2%;
+	
+		
+		
